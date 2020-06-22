@@ -1,8 +1,5 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-export default class Header extends Component {
-  render() {
-    const { text } = this.props;
-    return <h1 className="center-align">{text}</h1>;
-  }
+export default function Header({ text }) {
+  return <h1 className="center-align">{text}</h1>;
 }
