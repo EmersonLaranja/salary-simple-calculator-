@@ -1,8 +1,8 @@
-# salary Simple Calculator
+# Salary Simple Calculator
 
 A calculator to show some taxes and the net salary (IGTI bootcamp challenge - Module 3)
 
-📌 Statements
+# 📌 Statements
 Implement, using React, an application that will have an editable input and several other read-only inputs to display information on the calculation of wages according to the CLT laws in 2020. Only the INSS and IRPF discount calculations should be considered, that is, other discounts and dependents must be ignored. The values ​​to be displayed are:
 
 - Gross salary (editable by the user).
@@ -23,7 +23,7 @@ with different colors:
 - IRPF discount percentage
 - Net salary
 
-🎯 Goals
+# 🎯 Goals
 
 ✅ Implementation of applications with JavaScript and React
 
